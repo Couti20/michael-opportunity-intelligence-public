@@ -1,0 +1,12 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "michael-opportunity-intelligence-example",
+  "main": "src/index.example.js",
+  "compatibility_date": "2026-05-03",
+  "kv_namespaces": [
+    {
+      "binding": "OPPORTUNITY_DATA",
+      "id": "REPLACE_WITH_YOUR_KV_NAMESPACE_ID"
+    }
+  ]
+}
