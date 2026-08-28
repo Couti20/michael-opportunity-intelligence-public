@@ -1,0 +1,32 @@
+GREENHOUSE_BOARDS = [
+    {"board": "telnyx54", "name": "Telnyx"},
+    {"board": "bees", "name": "BEES"},
+    {"board": "sezzle", "name": "Sezzle"},
+    {"board": "artefactlinkedin", "name": "Artefact"},
+    {"board": "doordashinternational", "name": "DoorDash"},
+    {"board": "verve", "name": "Verve"},
+    {"board": "nubank", "name": "Nubank"},
+    {"board": "ifoodcarreiras", "name": "iFood"},
+    {"board": "ebanx", "name": "EBANX"},
+    {"board": "hotmartcareersbr", "name": "Hotmart"},
+    {"board": "rdstation", "name": "RD Station"},
+    {"board": "encora10", "name": "Encora"},
+]
+
+GREENHOUSE_BOARDS += [
+    {"board": "vtex", "name": "VTEX"},
+    {"board": "teachablecareers", "name": "Teachable"},
+    {"board": "nerdy", "name": "Nerdy"},
+    {"board": "blab", "name": "B Lab"},
+    {"board": "capco", "name": "Capco"},
+    {"board": "arc4", "name": "Arc4"},
+    {"board": "getnet", "name": "Getnet"},
+    {"board": "deliveryassociates", "name": "Delivery Associates"},
+    {"board": "shifttechnology", "name": "Shift Technology"},
+    {"board": "boldmetrics", "name": "Bold Metrics"},
+    {"board": "aestudio", "name": "AE Studio"},
+    {"board": "kunumi", "name": "Kunumi"},
+    {"board": "incognia-conf", "name": "Incognia"},
+    {"board": "clara", "name": "Clara"},
+    {"board": "blip-global", "name": "Blip"},
+]
