@@ -1,0 +1,9 @@
+id,empresa,titulo,localizacao,senioridade,area,skills,url
+greenhouse:telnyx54:4139272003,Telnyx,"Senior Software Engineer, Java","Sao Paulo, Brazil; Austin, Texas; Argentina, Dublin, Ireland",senior,Engenharia de Software,"docker | java | kafka | kubernetes | machine learning",https://job-boards.greenhouse.io/telnyx54/jobs/4139272003
+greenhouse:telnyx54:7776490003,Telnyx,"Solutions Engineer, LATAM (Remote)","São Paulo, Brazil; Mexico City, Mexico",nao_informado,Arquitetura / Soluções,machine learning,https://job-boards.greenhouse.io/telnyx54/jobs/7776490003
+greenhouse:bees:8647557002,BEES,Ads Growth & Insights Data Analyst,"São Paulo, São Paulo, Brazil",nao_informado,Dados,"python | sql",https://job-boards.greenhouse.io/bees/jobs/8647557002
+greenhouse:bees:8624080002,BEES,Associate Java Developer,"Campinas, São Paulo, Brazil",junior,Engenharia de Software,"ci/cd | docker | java | kubernetes | spring boot",https://job-boards.greenhouse.io/bees/jobs/8624080002
+greenhouse:bees:8630862002,BEES,Business Intelligence Analyst,"Campinas, São Paulo, Brazil",nao_informado,Dados,"aws | azure | databricks | gcp | python | react | sql | typescript",https://job-boards.greenhouse.io/bees/jobs/8630862002
+greenhouse:bees:8716044002,BEES,Intermediate Backend Java Developer,"Campinas, São Paulo, Brazil",pleno,Backend,"azure | ci/cd | docker | java | kubernetes | spring boot",https://job-boards.greenhouse.io/bees/jobs/8716044002
+greenhouse:bees:8630973002,BEES,Intermediate Data Analyst,"São Paulo, São Paulo, Brazil",pleno,Dados,"databricks | python | sql",https://job-boards.greenhouse.io/bees/jobs/8630973002
+greenhouse:bees:8380254002,BEES,Intermediate Data Engineer,"Campinas, São Paulo, Brazil",pleno,Dados,"airflow | aws | azure | databricks | gcp | github actions | python | spark | sql | terraform",https://job-boards.greenhouse.io/bees/jobs/8380254002
