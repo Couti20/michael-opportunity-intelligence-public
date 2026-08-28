@@ -1,0 +1,5 @@
+data,vagas_ativas,vagas_novas,fontes,estagio,junior,pleno,senior,nao_informado,coverage_signature,schema_version,classifier_version
+2026-08-24,490,12,42,3,7,57,242,181,0c27c540b3c3a00e,2,area-v3
+2026-08-25,487,8,42,3,7,58,244,175,0c27c540b3c3a00e,2,area-v3
+2026-08-26,486,0,42,3,7,59,246,171,0c27c540b3c3a00e,2,area-v3
+2026-08-27,520,38,42,3,7,64,260,186,0c27c540b3c3a00e,2,area-v3
