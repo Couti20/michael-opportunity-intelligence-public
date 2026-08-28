@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Node / Cloudflare
+node_modules/
+.wrangler/
+.dev.vars
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Operational datasets are private
+data/jobs/
+data/companies/
+data/market/
+data/state/
+data/sources/
+data/exports/
+data/parquet/
+
+# Build output
+dist/
+
+# Local backups / temporary files
+*.bak
+*.bak2
+*.backup
+*.pre-sync
