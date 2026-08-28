@@ -1,0 +1,82 @@
+[
+  {
+    "id": "greenhouse:telnyx54:4139272003",
+    "company": "Telnyx",
+    "title": "Senior Software Engineer, Java",
+    "location": "Sao Paulo, Brazil; Austin, Texas; Argentina, Dublin, Ireland",
+    "url": "https://job-boards.greenhouse.io/telnyx54/jobs/4139272003",
+    "seniority": "senior",
+    "area": "Engenharia de Software",
+    "skills": ["docker", "java", "kafka", "kubernetes", "machine learning"]
+  },
+  {
+    "id": "greenhouse:telnyx54:7776490003",
+    "company": "Telnyx",
+    "title": "Solutions Engineer, LATAM (Remote)",
+    "location": "São Paulo, Brazil; Mexico City, Mexico",
+    "url": "https://job-boards.greenhouse.io/telnyx54/jobs/7776490003",
+    "seniority": "nao_informado",
+    "area": "Arquitetura / Soluções",
+    "skills": ["machine learning"]
+  },
+  {
+    "id": "greenhouse:bees:8647557002",
+    "company": "BEES",
+    "title": "Ads Growth & Insights Data Analyst",
+    "location": "São Paulo, São Paulo, Brazil",
+    "url": "https://job-boards.greenhouse.io/bees/jobs/8647557002",
+    "seniority": "nao_informado",
+    "area": "Dados",
+    "skills": ["python", "sql"]
+  },
+  {
+    "id": "greenhouse:bees:8624080002",
+    "company": "BEES",
+    "title": "Associate Java Developer",
+    "location": "Campinas, São Paulo, Brazil",
+    "url": "https://job-boards.greenhouse.io/bees/jobs/8624080002",
+    "seniority": "junior",
+    "area": "Engenharia de Software",
+    "skills": ["ci/cd", "docker", "java", "kubernetes", "spring boot"]
+  },
+  {
+    "id": "greenhouse:bees:8630862002",
+    "company": "BEES",
+    "title": "Business Intelligence Analyst",
+    "location": "Campinas, São Paulo, Brazil",
+    "url": "https://job-boards.greenhouse.io/bees/jobs/8630862002",
+    "seniority": "nao_informado",
+    "area": "Dados",
+    "skills": ["aws", "azure", "databricks", "gcp", "python", "react", "sql", "typescript"]
+  },
+  {
+    "id": "greenhouse:bees:8716044002",
+    "company": "BEES",
+    "title": "Intermediate Backend Java Developer",
+    "location": "Campinas, São Paulo, Brazil",
+    "url": "https://job-boards.greenhouse.io/bees/jobs/8716044002",
+    "seniority": "pleno",
+    "area": "Backend",
+    "skills": ["azure", "ci/cd", "docker", "java", "kubernetes", "spring boot"]
+  },
+  {
+    "id": "greenhouse:bees:8630973002",
+    "company": "BEES",
+    "title": "Intermediate Data Analyst",
+    "location": "São Paulo, São Paulo, Brazil",
+    "url": "https://job-boards.greenhouse.io/bees/jobs/8630973002",
+    "seniority": "pleno",
+    "area": "Dados",
+    "skills": ["databricks", "python", "sql"]
+  },
+  {
+    "id": "greenhouse:bees:8380254002",
+    "company": "BEES",
+    "title": "Intermediate Data Engineer",
+    "location": "Campinas, São Paulo, Brazil",
+    "url": "https://job-boards.greenhouse.io/bees/jobs/8380254002",
+    "seniority": "pleno",
+    "area": "Dados",
+    "skills": ["airflow", "aws", "azure", "databricks", "gcp", "github actions", "python", "spark", "sql", "terraform"]
+  }
+]
